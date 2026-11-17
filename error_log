@@ -1,0 +1,106 @@
+[24-Sep-2026 14:23:38 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:23:38 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 21:23:38 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:23:38 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:23:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devg3447/public_html/macnuz-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 14:23:52 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:23:52 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 21:23:52 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:23:52 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:23:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devg3447/public_html/macnuz-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 14:31:27 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:31:27 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 21:31:27 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:31:27 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:31:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devg3447/public_html/macnuz-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 14:31:32 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:31:32 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 21:31:32 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:31:32 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:31:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devg3447/public_html/macnuz-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 14:39:14 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:39:14 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 21:39:14 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:39:14 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:39:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devg3447/public_html/macnuz-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 14:40:02 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:40:02 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 21:40:02 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:40:02 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:40:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devg3447/public_html/macnuz-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 14:40:07 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:40:07 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 21:40:07 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:40:07 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:40:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devg3447/public_html/macnuz-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 14:41:04 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devg3447/public_html/macnuz-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/artisan on line 10
+[24-Sep-2026 14:41:10 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:41:14 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:41:14 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:41:26 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:41:26 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:42:34 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:42:34 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:42:47 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:42:47 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:42:52 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:42:52 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:42:57 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:42:57 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:43:26 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:43:26 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:47:43 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:47:43 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:48:26 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:48:26 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:48:30 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:48:30 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:49:10 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:49:10 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:49:26 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:49:26 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:50:48 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:50:48 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:50:53 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:50:53 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:52:08 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:52:08 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:52:13 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:52:13 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2026 14:52:19 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2026 21:52:19 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Oct-2026 13:50:48 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[17-Oct-2026 20:50:48 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Oct-2026 13:51:25 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[17-Oct-2026 20:51:25 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Oct-2026 13:51:41 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[17-Oct-2026 20:51:41 Asia/Jakarta] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0

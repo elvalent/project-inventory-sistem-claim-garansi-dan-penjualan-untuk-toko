@@ -1,0 +1,468 @@
+[24-Sep-2026 21:35:50 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:50 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:51 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:51 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:56 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:56 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:35:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:36:52 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:36:52 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:36:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:36:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:37:10 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:37:10 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:37:44 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:37:44 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:38:25 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:38:25 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:38:32 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:38:32 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:38:43 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:38:43 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:11 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:36 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:36 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:36 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:36 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:37 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:37 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:43 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:43 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:48 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:39:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:03 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:03 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:19 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:19 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:19 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:19 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:26 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:26 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:26 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:26 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:26 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:26 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:26 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:26 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:31 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:31 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:31 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:31 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:32 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:32 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:32 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:32 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:33 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:33 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:34 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:34 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:34 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:34 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:34 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:34 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:34 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:34 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:35 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:35 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:35 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:35 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:35 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:35 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:35 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:35 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:36 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:36 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:36 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:36 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:36 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:36 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:36 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:36 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:37 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:37 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:37 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:37 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:37 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:37 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:37 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:37 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:38 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:38 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:38 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:38 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:38 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:38 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:39 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:39 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:39 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:39 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:39 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:39 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:39 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:39 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:40 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:40 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:42 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:42 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:43 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:43 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:48 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:48 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:49 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:49 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:49 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:49 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:50 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:50 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:50 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:50 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:50 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:50 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:51 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:51 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:53 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:53 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:55 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:55 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:55 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:55 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:55 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:55 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:55 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:55 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:56 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:56 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:58 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:58 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:58 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:58 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:59 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:40:59 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:00 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:00 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:04 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:06 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:06 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:09 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:09 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:10 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:11 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:11 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:11 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:12 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:12 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:12 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:12 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:12 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:12 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:12 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:12 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:13 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:13 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:13 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:13 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:14 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:14 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:36 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:36 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:39 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:39 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:40 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:40 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:49 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:49 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:57 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:41:57 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:42:13 Asia/Jakarta] PHP Warning:  require(/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:42:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/devg3447/public_html/macnuz-app/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devg3447/public_html/macnuz-app/public/index.php on line 14
+[24-Sep-2026 21:43:40 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:44:27 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:44:28 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:44:32 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:44:41 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:45:09 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:45:11 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:45:30 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:46:01 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:46:27 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:46:35 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:46:43 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:47:18 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:48:16 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:49:35 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:50:40 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:50:43 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:50:59 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:51:09 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:54:07 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:54:20 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[24-Sep-2026 21:54:25 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/composer/autoload_real.php(25): require()
+#1 /home/devg3447/public_html/macnuz-app/vendor/autoload.php(22): ComposerAutoloaderInitfc2407b1a509d7fcbbc5146f46a2c921::getLoader()
+#2 /home/devg3447/public_html/macnuz-app/public/index.php(14): require('/home/devg3447/...')
+#3 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/composer/platform_check.php on line 22
+[22-Oct-2026 21:30:00 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#5 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(RuntimeException))
+#6 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(RuntimeException))
+#7 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException(Object(Illuminate\Http\Request), Object(RuntimeException))
+#8 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#9 /home/devg3447/public_html/macnuz-app/public/index.php(20): Illuminate\Foundation\Application->handleRequest(Object(Illuminate\Http\Request))
+#10 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[22-Oct-2026 21:30:00 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#5 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(RuntimeException))
+#6 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(RuntimeException))
+#7 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException(Object(Illuminate\Http\Request), Object(RuntimeException))
+#8 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#9 /home/devg3447/public_html/macnuz-app/public/index.php(20): Illuminate\Foundation\Application->handleRequest(Object(Illuminate\Http\Request))
+#10 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[22-Oct-2026 21:30:07 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#5 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(RuntimeException))
+#6 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(RuntimeException))
+#7 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException(Object(Illuminate\Http\Request), Object(RuntimeException))
+#8 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#9 /home/devg3447/public_html/macnuz-app/public/index.php(20): Illuminate\Foundation\Application->handleRequest(Object(Illuminate\Http\Request))
+#10 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[22-Oct-2026 21:30:25 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#5 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(RuntimeException))
+#6 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(RuntimeException))
+#7 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException(Object(Illuminate\Http\Request), Object(RuntimeException))
+#8 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#9 /home/devg3447/public_html/macnuz-app/public/index.php(20): Illuminate\Foundation\Application->handleRequest(Object(Illuminate\Http\Request))
+#10 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[22-Oct-2026 21:30:29 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#5 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(RuntimeException))
+#6 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(RuntimeException))
+#7 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException(Object(Illuminate\Http\Request), Object(RuntimeException))
+#8 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#9 /home/devg3447/public_html/macnuz-app/public/index.php(20): Illuminate\Foundation\Application->handleRequest(Object(Illuminate\Http\Request))
+#10 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[22-Oct-2026 21:30:29 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#5 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(RuntimeException))
+#6 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(RuntimeException))
+#7 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException(Object(Illuminate\Http\Request), Object(RuntimeException))
+#8 /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#9 /home/devg3447/public_html/macnuz-app/public/index.php(20): Illuminate\Foundation\Application->handleRequest(Object(Illuminate\Http\Request))
+#10 {main}
+  thrown in /home/devg3447/public_html/macnuz-app/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360

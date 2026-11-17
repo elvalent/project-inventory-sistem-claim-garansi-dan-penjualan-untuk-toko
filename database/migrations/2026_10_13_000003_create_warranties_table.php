@@ -1,0 +1,3 @@
+<?php
+use Illuminate\Database\Migrations\Migration; use Illuminate\Database\Schema\Blueprint; use Illuminate\Support\Facades\Schema;
+return new class extends Migration { public function up(): void { Schema::create('warranties', function(Blueprint $t){ $t->id(); $t->foreignId('sale_id')->unique()->constrained()->cascadeOnDelete(); $t->string('warranty_code')->unique(); $t->date('start_date'); $t->date('end_date'); $t->enum('status',['active','claimed','expired'])->default('active'); $t->text('claim_description')->nullable(); $t->text('admin_notes')->nullable(); $t->timestamps(); }); } public function down(): void { Schema::dropIfExists('warranties'); } };
